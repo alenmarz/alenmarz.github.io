@@ -22,7 +22,7 @@ s4() + s4();}
 						 '<hr>' +
 						 '<input id="add_task_input">'
 						 +
-						 '<button onclick="add_li($(\'#add_task_input\').val())">');
+						 '<button id="add_task" onclick="add_li($(\'#add_task_input\').val())">');
 					  add_li
 					  ("Сделать задание #3 по web-программированию");}
 			)
