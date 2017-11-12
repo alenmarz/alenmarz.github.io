@@ -24,5 +24,5 @@ s4() + s4();}
 						 +
 						 '<input type="button" id="add_task" value="Добавить" onclick="add_li($(\'#add_task_input\').val())">');
 					  add_li
-					  ("Сделать задание #3 по  web-программированию");}
+					  ("Сделать задание #3 по web-программированию");}
 			)
